@@ -8,5 +8,25 @@
       "Chi trả gốc, lãi bằng đồng EUR, sau đó mua lại VND."
     ],
     "answer": 3
+  },
+  {
+    "question": "Thời hạn cho vay tối đa trong cho vay mua nhà là bao nhiêu năm?",
+    "options": [
+      "10 năm",
+      "20 năm",
+      "25 năm",
+      "30 năm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khoản vay tiêu dùng trả góp thường có kỳ hạn tối đa bao lâu?",
+    "options": [
+      "12 tháng",
+      "24 tháng",
+      "36 tháng",
+      "60 tháng"
+    ],
+    "answer": 2
   }
 ]

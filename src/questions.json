@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Khách hàng gửi tiết kiệm bằng đồng EUR muốn rút gốc, lãi được chi trả như thế nào?",
+    "options": [
+      "Chi trả gốc và lãi bằng đồng EUR.",
+      "Chi trả gốc và lãi bằng VND theo tỷ giá mua EUR.",
+      "Chi trả gốc, lãi bằng đồng USD.",
+      "Chi trả gốc, lãi bằng đồng EUR, sau đó mua lại VND."
+    ],
+    "answer": 3
+  }
+]
